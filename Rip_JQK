@@ -1,0 +1,6 @@
+Config = {
+namescript = "Rip_JQK HUB", --Tên Script
+logoscript = "78167224339696",--ID Logo Script
+tacgia = "giaohuonge4745" -- Tên Tác Giả
+}
+loadstring(game: HttpGet("https://raw.githubusercontent.com/LuaCrack/BapRed/main/BapRedHub"))()
