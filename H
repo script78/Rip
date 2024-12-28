@@ -1,0 +1,1 @@
+<p>Config ={<br/>&nbsp;&nbsp;namescript="Rip_JQK",--T&ecirc;nScript<br/>&nbsp;&nbsp;logoscript="78167224339696",--IDLogoScript<br/>&nbsp;&nbsp;tacgia="giaohuonge4745"--T&ecirc;nT&aacute;cGiả<br/>}<br/>loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/BapRed/main/BapRedHub"))()</p>
